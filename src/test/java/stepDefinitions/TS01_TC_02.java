@@ -22,7 +22,7 @@ public class TS01_TC_02 {
 		
 		BaseClass.getLogger().info("Cab Page ---> User Sort the Car");
 		try {
-			Thread.sleep(1000);
+			Thread.sleep(5000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
