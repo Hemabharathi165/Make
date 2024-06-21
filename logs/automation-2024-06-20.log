@@ -1,0 +1,49 @@
+20:39:10.082 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Email Button
+20:39:10.736 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:39:10.738 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:39:10.739 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+20:39:10.740 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:39:26.247 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:39:26.248 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:39:26.248 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+20:39:26.249 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:40:10.238 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+20:40:10.245 [main] INFO  baseClass.BaseClass - User close the Ads......
+20:40:45.293 [main] INFO  baseClass.BaseClass - No Ads in window so Skipped..
+20:40:45.294 [main] INFO  baseClass.BaseClass - User close the Login/SignUp......
+20:41:15.324 [main] INFO  baseClass.BaseClass - No Login/SignUp pop up in window so Skipped..
+20:41:15.325 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+20:41:15.747 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+20:41:23.034 [main] INFO  baseClass.BaseClass - Cab Page ---> User Click the More Options
+20:41:23.195 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Gift In More Options
+20:41:25.210 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Birthday Gift
+20:41:25.551 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Email Button
+20:41:26.189 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:41:26.190 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:41:26.191 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+20:41:26.191 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:41:41.566 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:41:41.567 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:41:41.568 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+20:41:41.569 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:53:03.318 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+20:53:03.372 [main] INFO  baseClass.BaseClass - User close the Ads......
+20:53:38.452 [main] INFO  baseClass.BaseClass - No Ads in window so Skipped..
+20:53:38.453 [main] INFO  baseClass.BaseClass - User close the Login/SignUp......
+20:54:08.475 [main] INFO  baseClass.BaseClass - No Login/SignUp pop up in window so Skipped..
+20:54:08.480 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+20:54:08.786 [main] INFO  baseClass.BaseClass - User Click on th One Way Cab Button
+20:54:09.380 [main] INFO  baseClass.BaseClass - Cab Page ---> From Button
+20:54:09.833 [main] INFO  baseClass.BaseClass - Cab Page ---> From input
+20:54:17.447 [main] INFO  baseClass.BaseClass - Cab Page ---> To Button
+20:54:17.604 [main] INFO  baseClass.BaseClass - Cab Page ---> To input
+20:54:23.012 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Date
+20:54:23.478 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Hours
+20:54:26.030 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Minutes
+20:54:26.153 [main] INFO  baseClass.BaseClass - Cab Page ---> User input the Meridian
+20:54:26.269 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the apply button
+20:54:26.465 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+20:54:33.319 [main] INFO  baseClass.BaseClass - Cab Page ---> User Sort the Car
+20:54:38.472 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Lowest to Highest Price
+20:54:38.526 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Car SUV
+20:54:38.670 [main] INFO  baseClass.BaseClass - Cab Page ---> User get the lowest price

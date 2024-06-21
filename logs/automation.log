@@ -1,0 +1,34 @@
+20:54:38.700 [main] INFO  baseClass.BaseClass - Cab Page ---> User get the Price List
+20:54:38.785 [main] INFO  baseClass.BaseClass - Cab Page ---> Lowest Price Printed
+20:54:52.344 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+20:54:52.347 [main] INFO  baseClass.BaseClass - User close the Ads......
+20:55:27.385 [main] INFO  baseClass.BaseClass - No Ads in window so Skipped..
+20:55:27.386 [main] INFO  baseClass.BaseClass - User close the Login/SignUp......
+20:55:57.485 [main] INFO  baseClass.BaseClass - No Login/SignUp pop up in window so Skipped..
+20:55:57.487 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+20:55:57.961 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+20:56:05.386 [main] INFO  baseClass.BaseClass - Cab Page ---> User Click the More Options
+20:56:05.484 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Gift In More Options
+20:56:07.761 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Birthday Gift
+20:56:08.070 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Email Button
+20:56:08.908 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Name
+20:56:09.525 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mobile Number
+20:56:09.832 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mail ID
+20:56:10.349 [main] INFO  baseClass.BaseClass - User Enter the compose Message
+20:56:10.619 [main] INFO  baseClass.BaseClass - User click the buy Now Button After Enter all Details
+20:56:37.421 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+20:56:37.424 [main] INFO  baseClass.BaseClass - User close the Ads......
+20:57:12.491 [main] INFO  baseClass.BaseClass - No Ads in window so Skipped..
+20:57:12.495 [main] INFO  baseClass.BaseClass - User close the Login/SignUp......
+20:57:42.524 [main] INFO  baseClass.BaseClass - No Login/SignUp pop up in window so Skipped..
+20:57:42.561 [main] INFO  baseClass.BaseClass - User Click the Hotel Option in Home Page
+20:57:42.933 [main] INFO  baseClass.BaseClass - User click the location button
+20:57:43.618 [main] INFO  baseClass.BaseClass - User enter the location name
+20:57:44.442 [main] INFO  baseClass.BaseClass - User click the Suggestion location
+20:57:46.761 [main] INFO  baseClass.BaseClass - User click the checkIn button
+20:57:47.019 [main] INFO  baseClass.BaseClass - User enter the check In Date
+20:57:50.220 [main] INFO  baseClass.BaseClass - User click the checkout button
+20:57:50.375 [main] INFO  baseClass.BaseClass - User enter the check out Date
+20:57:50.479 [main] INFO  baseClass.BaseClass - User select the room button
+20:57:50.653 [main] INFO  baseClass.BaseClass - User click the adult button
+20:57:51.504 [main] INFO  baseClass.BaseClass - User Print the List Of Adults Number
