@@ -70,7 +70,7 @@ public class TS01_TC_01 {
 	    BaseClass.getLogger().info("Cab Page ---> From input");
 	    page1.fromCity(from);
 	    
-	    Thread.sleep(2000);
+	    
 	}
 	
 	@When("user enter to {string}")
