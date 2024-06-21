@@ -4,8 +4,8 @@ Feature: Data Driven Test
 Scenario Outline: To do data driven test in gift card with valid and invalid emailID.
 
 		Given the user navigates to page
-    Then user close the Ads
-    Then user close the login/signup
+   # Then user close the Ads
+   # Then user close the login/signup
     And user click the Cab icon
     And Click on Search button
     When the user clicks on more options

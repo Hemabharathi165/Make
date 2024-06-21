@@ -1,30 +1,38 @@
-07:17:52.628 [main] INFO  baseClass.BaseClass - No Ads in window so Skipped..
-07:17:52.641 [main] INFO  baseClass.BaseClass - User close the Login/SignUp......
-07:18:22.665 [main] INFO  baseClass.BaseClass - No Login/SignUp pop up in window so Skipped..
-07:18:22.667 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
-07:18:22.908 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
-07:18:33.400 [main] INFO  baseClass.BaseClass - Cab Page ---> User Click the More Options
-07:18:33.494 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Gift In More Options
-07:18:37.673 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Birthday Gift
-07:18:37.857 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Email Button
-07:18:39.635 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Name
-07:18:40.080 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mobile Number
-07:18:40.284 [main] INFO  baseClass.BaseClass - User Enter the Recipients and Sender Mail ID
-07:18:40.573 [main] INFO  baseClass.BaseClass - User Enter the compose Message
-07:18:40.752 [main] INFO  baseClass.BaseClass - User click the buy Now Button After Enter all Details
-07:19:09.457 [main] INFO  baseClass.BaseClass - User Navigation to the page............
-07:19:09.458 [main] INFO  baseClass.BaseClass - User close the Ads......
-07:19:44.519 [main] INFO  baseClass.BaseClass - No Ads in window so Skipped..
-07:19:44.520 [main] INFO  baseClass.BaseClass - User close the Login/SignUp......
-07:20:14.545 [main] INFO  baseClass.BaseClass - No Login/SignUp pop up in window so Skipped..
-07:20:14.561 [main] INFO  baseClass.BaseClass - User Click the Hotel Option in Home Page
-07:20:14.746 [main] INFO  baseClass.BaseClass - User click the location button
-07:20:15.512 [main] INFO  baseClass.BaseClass - User enter the location name
-07:20:16.680 [main] INFO  baseClass.BaseClass - User click the Suggestion location
-07:20:18.836 [main] INFO  baseClass.BaseClass - User click the checkIn button
-07:20:18.948 [main] INFO  baseClass.BaseClass - User enter the check In Date
-07:20:22.037 [main] INFO  baseClass.BaseClass - User click the checkout button
-07:20:22.119 [main] INFO  baseClass.BaseClass - User enter the check out Date
-07:20:22.179 [main] INFO  baseClass.BaseClass - User select the room button
-07:20:22.265 [main] INFO  baseClass.BaseClass - User click the adult button
-07:20:22.657 [main] INFO  baseClass.BaseClass - User Print the List Of Adults Number
+09:44:32.433 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+09:44:32.441 [main] INFO  baseClass.BaseClass - User close the Ads......
+09:45:07.483 [main] INFO  baseClass.BaseClass - No Ads in window so Skipped..
+09:45:07.483 [main] INFO  baseClass.BaseClass - User close the Login/SignUp......
+09:45:37.541 [main] INFO  baseClass.BaseClass - No Login/SignUp pop up in window so Skipped..
+09:45:37.542 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+09:45:37.704 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+09:45:44.363 [main] INFO  baseClass.BaseClass - Cab Page ---> User Click the More Options
+09:45:44.435 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Gift In More Options
+09:45:46.689 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Birthday Gift
+09:45:46.893 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Email Button
+09:45:47.690 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:45:47.691 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:45:47.692 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+09:45:47.693 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:46:02.720 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:46:02.721 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:46:02.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+09:46:02.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:46:42.970 [main] INFO  baseClass.BaseClass - User Navigation to the page............
+09:46:42.972 [main] INFO  baseClass.BaseClass - User close the Ads......
+09:47:18.011 [main] INFO  baseClass.BaseClass - No Ads in window so Skipped..
+09:47:18.012 [main] INFO  baseClass.BaseClass - User close the Login/SignUp......
+09:47:48.040 [main] INFO  baseClass.BaseClass - No Login/SignUp pop up in window so Skipped..
+09:47:48.041 [main] INFO  baseClass.BaseClass - User click the Cab Button On Home Page
+09:47:48.194 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the search Button
+09:47:55.242 [main] INFO  baseClass.BaseClass - Cab Page ---> User Click the More Options
+09:47:55.311 [main] INFO  baseClass.BaseClass - Cab Page ---> User click the Gift In More Options
+09:47:57.228 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Birthday Gift
+09:47:57.426 [main] INFO  baseClass.BaseClass - Gift Page ---> User click the Email Button
+09:47:58.117 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:47:58.119 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:47:58.119 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+09:47:58.121 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:48:13.115 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:48:13.116 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:48:13.116 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+09:48:13.117 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels

@@ -10,6 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 //provides configuration settings for Cucumber test runner
 @CucumberOptions(
 				features={".//Features/TS_001.feature",".//Features/TS_002.feature",".//Features/TS_003.feature"},
+				//features= {".//Features"},
 						
 		//features= {".//Features/TS_004(5)_DDTest.feature"},
 		//features= {".//Features/TS_004_DD.feature"},
