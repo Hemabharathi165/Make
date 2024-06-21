@@ -151,11 +151,16 @@ public class Homepage extends BasePage{
 		suggestion_city.click();
 	}
 
-	public void date(String depDate) throws InterruptedException {
+	public void date(String depDate) {
 		
 		driver.findElement(By.xpath("//*[@id=\"top-banner\"]/div[2]/div/div/div[2]/div[1]/div[3]")).click();
 		WebElement date=driver.findElement(By.xpath("//*[contains(@class,'DayPicker-Day')][@tabindex=-1][@aria-disabled='false'][contains(@aria-label,'"+depDate+"')]"));
-		Thread.sleep(3000);
+		try {
+			Thread.sleep(3000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		date.click();
 	}
 	
