@@ -154,13 +154,14 @@ public class Homepage extends BasePage{
 	public void date(String depDate) {
 		
 		driver.findElement(By.xpath("//*[@id=\"top-banner\"]/div[2]/div/div/div[2]/div[1]/div[3]")).click();
-		WebElement date=driver.findElement(By.xpath("//*[contains(@class,'DayPicker-Day')][@tabindex=-1][@aria-disabled='false'][contains(@aria-label,'"+depDate+"')]"));
 		try {
 			Thread.sleep(3000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		WebElement date=driver.findElement(By.xpath("//*[contains(@class,'DayPicker-Day')][@tabindex=-1][@aria-disabled='false'][contains(@aria-label,'"+depDate+"')]"));
+		
 		date.click();
 	}
 	
